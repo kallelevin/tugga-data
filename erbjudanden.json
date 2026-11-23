@@ -1,35 +1,240 @@
 {
-  "week": 47,
-  "valid": "16-22 nov (v. 47)",
-  "updated": "ons 18 nov",
+  "week": 48,
+  "valid": "23-29 nov (v. 48)",
+  "updated": "mån 23 nov",
   "missing": [],
   "deals": [
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "cat": "Kyckling och kött", "name": "Svensk kycklinginnerfilé, Garant 700 g", "price": "49,95 kr", "ord": "Ord. ca 62 kr. Medlemspris, max 2 köp", "why": "Innerfilé är den mest möra delen av kycklingen. Magert och proteinrikt.", "tip": "Frys i portioner om ca 100 g.", "st": "bra", "url": "https://www.hemkop.se/erbjudanden" },
-    { "stores": ["coop"], "cat": "Kyckling och kött", "name": "Strimlad kycklingfilé, Guldfågeln 600 g", "price": "79 kr", "ord": "Jfr-pris 131,67 kr/kg", "why": "Färdigstrimlad, så den blir snabb att steka saftig.", "tip": "Välj bröstfilé naturell. Lårfilé och marinerad har mer fett och ibland socker.", "st": "bra", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["coop"], "cat": "Kyckling och kött", "name": "Färsk hel kyckling, Guldfågeln ca 1,4 kg", "price": "54,90 kr/kg", "ord": "", "why": "Billigt protein. Bröstet är magert och benen ger buljong till soppa.", "tip": "Ta bort skinnet innan du äter, det är där fettet sitter.", "st": "bra", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["coop"], "cat": "Kyckling och kött", "name": "Kalkonbröstfilé, Ingelsta fryst ca 600 g", "price": "175 kr/kg", "ord": "", "why": "Mycket magert protein. Långkokt eller i gryta blir den mör.", "tip": "", "st": "bra", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["ica-kronan"], "cat": "Kyckling och kött", "name": "Fläskytterfilé, ICA ca 1 kg", "price": "65 kr/kg", "ord": "Ord. 90,75 kr/kg. Max 2 köp", "why": "Magert och mört kött. Fungerar fint i fläskfilérätten i appen.", "tip": "Skär i portionsbitar och frys. Stek kort så blir den inte torr.", "st": "bra", "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/" },
-    { "stores": ["ica-kronan"], "cat": "Kyckling och kött", "name": "Färsk kycklinglårfilé, Kronfågel 900 g", "price": "99 kr", "ord": "Ord. 139,95 kr. Max 2 köp", "why": "Saftig och mör, men lårfilé har mer fett än bröstfilé (ca 9 g per 100 g).", "tip": "Skär bort synligt fett och håll portionen liten.", "st": "mattlig", "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/" },
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "cat": "Fisk", "name": "Ryggfilé 3-pack, Royal Foods 3x100 g", "price": "39,95 kr", "ord": "Ord. 64,30 kr. Medlemspris", "why": "Fryst, MSC-märkt vit fisk i färdiga portioner om 100 g. Perfekt till torsk- och fiskgratängrecepten.", "tip": "Kolla fisksorten på förpackningen.", "st": "bra", "url": "https://www.hemkop.se/erbjudanden" },
-    { "stores": ["coop"], "cat": "Fisk", "name": "Stillahavstorsk, Coop fryst 400 g", "price": "69 kr", "ord": "Jfr-pris 172,50 kr/kg", "why": "Mild vit fisk med nästan inget fett. Räcker till fyra små portioner.", "tip": "", "st": "bra", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "cat": "Fisk", "name": "Färsk laxfilé, Falkenberg ca 1,4 kg", "price": "129 kr/kg", "ord": "Ord. 199 kr/kg", "why": "Bra pris, men lax är fetare än vit fisk. Passar till ugnslaxen i appen.", "tip": "Dela i bitar om ca 80 g och frys.", "st": "mattlig", "url": "https://www.hemkop.se/erbjudanden" },
-    { "stores": ["ica-kronan"], "cat": "Bröd och knäcke", "name": "Leksands Brungräddat trekantsknäcke 200 g", "price": "2 för 20 kr", "ord": "Ord. 12 kr/st", "why": "Samma knäcke som finns bland Bra köp i Guiden: råg, vatten, jäst och salt.", "tip": "Gäller även Normalgräddat.", "st": "bra", "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/" },
-    { "stores": ["coop"], "cat": "Mejeri och ost", "name": "Hushållsost, Arla", "price": "75 kr/kg", "ord": "Medlemspris", "why": "Erbjudandet gäller flera fetthalter.", "tip": "Välj 17 %, inte 26 %. Tunna skivor räcker.", "st": "mattlig", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "cat": "Mejeri och ost", "name": "Kesella kvarg naturell, Arla 250 g", "price": "12,95 kr", "ord": "Ord. ca 15-16 kr", "why": "Kesella finns i flera fetthalter: lätt 0,3 %, 7 % och 10 %.", "tip": "Välj Kesella lätt 0,3 %. Den har 12 g protein och nästan inget fett.", "st": "mattlig", "url": "https://www.hemkop.se/erbjudanden" },
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "cat": "Frukt, bär och grönt", "name": "Hallon 125 g", "price": "25 kr", "ord": "Ord. ca 32-37 kr", "why": "Färska hallon har lite socker och mycket fiber. Toppa kvargen.", "tip": "", "st": "bra", "url": "https://www.hemkop.se/erbjudanden" },
-    { "stores": ["coop"], "cat": "Frukt, bär och grönt", "name": "Färska blåbär 300 g", "price": "55 kr", "ord": "Jfr-pris 183,33 kr/kg", "why": "Odlade blåbär är sötare än hallon och jordgubbar.", "tip": "1-2 matskedar per portion räcker.", "st": "mattlig", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["ica-kronan"], "cat": "Frukt, bär och grönt", "name": "Plommontomater i ask 500 g", "price": "20 kr", "ord": "Ord. 32 kr", "why": "Till kesoröra, omelett och tomatsåser.", "tip": "", "st": "bra", "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/" },
-    { "stores": ["coop"], "cat": "Frukt, bär och grönt", "name": "Snacktomater, Coop 400 g", "price": "29 kr", "ord": "Medlemspris", "why": "Bra att ha som tilltugg till kokt ägg eller keso.", "tip": "", "st": "bra", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["coop"], "cat": "Frukt, bär och grönt", "name": "Ekologisk sallad i påse, Änglamark 65 g", "price": "2 för 25 kr", "ord": "", "why": "Välj babyspenat. Passar i äggröran och kikärtsgrytan.", "tip": "", "st": "bra", "url": "https://www.coop.se/butiker-erbjudanden/coop/coop-mellerud/" },
-    { "stores": ["ica-kronan"], "cat": "Frukt, bär och grönt", "name": "Nyskördade morötter, ICA 1 kg", "price": "10 kr", "ord": "Ord. 16,85 kr", "why": "Till linssoppan, kycklingsoppan och nötgrytan. Kokta morötter är mjuka och lätta att äta.", "tip": "", "st": "bra", "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/" },
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "cat": "Frukt, bär och grönt", "name": "Svenska rotsaker", "price": "8 kr/kg", "ord": "Ord. ca 25-30 kr/kg", "why": "Kokta och mosade rotfrukter är skonsamma och mättande.", "tip": "", "st": "bra", "url": "https://www.hemkop.se/erbjudanden" },
-    { "stores": ["ica-kronan"], "cat": "Frukt, bär och grönt", "name": "Frysta grönsaker, Apetit 500-600 g", "price": "2 för 35 kr", "ord": "Ord. ca 25-29 kr/st", "why": "Smidigt att ha i frysen till soppor och grytor.", "tip": "Välj rena grönsaker utan sås.", "st": "bra", "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/" }
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "cat": "Kyckling och kött",
+      "name": "Svensk majskycklingbröstfilé, Garant ca 750 g",
+      "price": "139 kr/kg",
+      "ord": "Ord. 173,40 kr/kg. Medlemspris",
+      "why": "Kycklingbröst är magert och ger mycket protein i en liten portion.",
+      "tip": "Skär i små bitar och stek eller koka mjukt så blir det lätt att tugga.",
+      "st": "bra",
+      "url": "https://www.hemkop.se/erbjudanden"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Kyckling och kött",
+      "name": "Kycklinginnerfilé eller lårfilé, Kronfågel 700 g (fryst)",
+      "price": "2 för 110 kr",
+      "ord": "Ord. 65,95-74,50 kr. Max 1 köp/hushåll",
+      "why": "Innerfilé är mör och mager, ett bra proteinval.",
+      "tip": "Välj innerfilé. Lårfilé är fetare. Frys i portioner om ca 100 g.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Kyckling och kött",
+      "name": "Fläskfilé, ICA ca 500 g",
+      "price": "149 kr/kg",
+      "ord": "Ord. 177,95 kr/kg",
+      "why": "Fläskfilé är en av de magraste delarna av grisen och blir mör om den inte steks för länge.",
+      "tip": "Skiva tunt och stek kort, eller tillaga hel i ugn till 65 grader.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "cat": "Kyckling och kött",
+      "name": "Svensk kycklinglårfilé, Kronfågel 900 g",
+      "price": "99,00 kr",
+      "ord": "Ord. 145,00 kr. Medlemspris",
+      "why": "Saftigt och proteinrikt, men lite fetare än bröstfilé.",
+      "tip": "Skär bort synligt fett och ät små portioner.",
+      "st": "mattlig",
+      "url": "https://www.hemkop.se/erbjudanden"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Fisk",
+      "name": "Torskryggfilé MSC, Findus 420 g (fryst)",
+      "price": "119 kr",
+      "ord": "Ord. 167,50 kr. Stammispris, max 2 köp/hushåll",
+      "why": "Torsk är mager vit fisk som är mjuk och lätt att äta.",
+      "tip": "Ugnsbaka direkt från frysen, gärna med citron och örter.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Fisk",
+      "name": "Stora skalade räkor, ICA 400 g (frysta)",
+      "price": "2 för 130 kr",
+      "ord": "Ord. 89,95 kr",
+      "why": "Räkor är magra och proteinrika och kräver inget tillagande.",
+      "tip": "Tina i kylen och ät utan majonnäs, till exempel med keso eller sallad.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Mejeri och ost",
+      "name": "Hushållsost, Arla ca 1,1-2,2 kg",
+      "price": "69 kr/kg",
+      "ord": "Ord. 113,95-114,95 kr/kg. Stammispris",
+      "why": "Ost ger protein, men erbjudandet gäller flera fetthalter.",
+      "tip": "Välj 17 % och skiva tunt. Bitar kan frysas.",
+      "st": "mattlig",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Broccoli, ICA 500 g",
+      "price": "15 kr",
+      "ord": "Ord. 28,50 kr",
+      "why": "Grönsak med fibrer som blir mjuk och lätt att äta när den kokas.",
+      "tip": "Koka eller ånga tills den är mjuk.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Brysselkål i påse, ICA 500 g",
+      "price": "15 kr",
+      "ord": "Ord. 22,95-29,75 kr",
+      "why": "Grön grönsak som passar bra till kyckling och fisk.",
+      "tip": "Koka mjuk och börja med små mängder, kål kan ge gaser.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Kastanjechampinjoner i ask, ICA 250 g",
+      "price": "20 kr",
+      "ord": "Ord. 24,85 kr",
+      "why": "Svamp ger smak och fyllighet utan att tynga magen.",
+      "tip": "Stek i lite olja och blanda i kycklinggrytan.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    },
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Champinjoner, Garant 250 g",
+      "price": "10,00 kr",
+      "ord": "Ord. 18,95 kr",
+      "why": "Billig svamp som ger smak åt magra rätter.",
+      "tip": "Skiva tunt och stek mjukt.",
+      "st": "bra",
+      "url": "https://www.hemkop.se/erbjudanden"
+    },
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Grön zucchini, ca 360 g",
+      "price": "10,00 kr",
+      "ord": "Ord. 14,95 kr",
+      "why": "Mild grönsak som blir mjuk och lätt att äta.",
+      "tip": "Riv i färs eller stek i skivor.",
+      "st": "bra",
+      "url": "https://www.hemkop.se/erbjudanden"
+    },
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Röd spetspaprika, 200 g",
+      "price": "20,00 kr",
+      "ord": "Ord. 22,95 kr",
+      "why": "Söt och mild paprika som passar till det mesta.",
+      "tip": "Ugnsrosta så blir den mjukare för magen.",
+      "st": "bra",
+      "url": "https://www.hemkop.se/erbjudanden"
+    },
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "cat": "Frukt, bär och grönt",
+      "name": "Potatis, Garant 900 g",
+      "price": "15,00 kr",
+      "ord": "Ord. 24,95 kr. Medlemspris",
+      "why": "Kokt potatis är mild för magen och passar till fisk och kyckling.",
+      "tip": "Ät en liten portion och låt proteinet komma först på tallriken.",
+      "st": "bra",
+      "url": "https://www.hemkop.se/erbjudanden"
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "cat": "Skafferi",
+      "name": "Tomatpuré, Mutti 130 g eller 185 g",
+      "price": "2 för 35 kr",
+      "ord": "Ord. 21,70-23,60 kr",
+      "why": "Ger mycket tomatsmak åt grytor och såser utan grädde.",
+      "tip": "Rör ut i grytan med lite vatten i stället för gräddsås.",
+      "st": "bra",
+      "url": "https://www.ica.se/erbjudanden/ica-supermarket-kronan-1004463/"
+    }
   ],
   "avoid": [
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "name": "Barebells proteinbars och milkshake", "why": "Proteinbarerna är sötade med sockeralkoholer som kan ge magknip." },
-    { "stores": ["ica-kronan"], "name": "Fruktsmoothie och puré, ICA I love eco", "why": "Flytande frukt passerar snabbt och kan ge dumpning." },
-    { "stores": ["ica-kronan"], "name": "Juice, Bravo", "why": "Mycket socker i flytande form." },
-    { "stores": ["coop"], "name": "Vaniljyoghurt, Valio 1000 g", "why": "Innehåller tillsatt socker." },
-    { "stores": ["hemkop-torget", "hemkop-kvarnkullen"], "name": "Räksallad och Skagenröra, Redo", "why": "Gjorda på majonnäs, mycket fett." }
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "name": "Yoghurt Original och Mini, Yoggi 1000 g",
+      "why": "Smaksatt yoghurt med tillsatt socker som kan ge dumpning. Välj naturell yoghurt eller kvarg."
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "name": "Juice och smoothie, Innocent",
+      "why": "Mycket fruktsocker i flytande form, en vanlig orsak till dumpning."
+    },
+    {
+      "stores": [
+        "hemkop-torget",
+        "hemkop-kvarnkullen"
+      ],
+      "name": "Fruktdryck, Proviva 1 l",
+      "why": "Ser nyttig ut men är en söt fruktdryck som kan ge dumpning."
+    },
+    {
+      "stores": [
+        "ica-kronan"
+      ],
+      "name": "Russin, Sun Maid 500 g",
+      "why": "Torkad frukt är koncentrerat socker och kan ge dumpning."
+    }
   ]
 }
